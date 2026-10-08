@@ -1,5 +1,6 @@
 # 🎬 AI 短视频脚本生成器 (Short Video Script Generator)
 
+> AI short-video script generator for Douyin/Kuaishou/Bilibili/Xiaohongshu — 8 proven hook structures, full script in one shot.
 > 专为 60 秒内短视频打造，支持抖音、快手、B站、小红书等平台。内置 8 种爆款结构模板，一键生成完整脚本，自动适配多平台风格。
 
 ![cover](assets/cover.png)
@@ -155,3 +156,8 @@ short-video-script-generator/
 ## ⭐ Star History
 
 如果这个项目对你有帮助，欢迎 Star ⭐
+---
+
+## ⭐ 支持一下
+
+如果这个工具帮你省了写脚本的时间，欢迎点个 Star 让更多人看到。欢迎 Issue 分享你生成的脚本效果。
